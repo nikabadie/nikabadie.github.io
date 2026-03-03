@@ -164,7 +164,7 @@ background-color: rgb(255, 0, 0);
 
 article {
 	background-color: rgb(15, 255, 243);
-	margin: 0.5em 20em;
+	margin: 0.5em 20%;
 }
 
 @media screen and (min-width: 60em) {
