@@ -41,7 +41,7 @@ header {
 	display: grid;
 	grid-template-columns:14em auto;
 	grid-column-gap: 5em;
-	background-color: rgb(195, 195, 195);
+	background-color: rgb(237, 237, 225);
 	padding: 2em 1em;
 	}
 
