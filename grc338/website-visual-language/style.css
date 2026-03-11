@@ -35,9 +35,7 @@ img {
 }
 
 nav ul li.selected a { 
-	font-family: "museo-sans", sans-serif;
-	font-weight: 300;
-	font-style: bold;
+	color: rgb(255, 255, 255)
 }
 header {	
 	display: grid;
