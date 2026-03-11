@@ -35,8 +35,8 @@ img {
 }
 
 nav ul li.selected a { 
-	font-weight: 700;
-	font-style: bold;
+	font-weight: 900;
+	font-style: normal;
 }
 header {	
 	display: grid;
