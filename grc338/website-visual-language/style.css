@@ -41,7 +41,7 @@ header {
 	display: grid;
 	grid-template-columns:14em auto;
 	grid-column-gap: 5em;
-	background: rgb(197 197 197);
+	background: rgb(123 215 190);
 	padding: 2em 1em;
 	}
 
@@ -169,7 +169,7 @@ body {
 font-family: "museo-sans", sans-serif;
 font-weight: 300;
 font-style: normal;
-background-color: rgb(3, 76, 36);
+background-color: rgb(158, 58, 1);
 }
 
 article {
