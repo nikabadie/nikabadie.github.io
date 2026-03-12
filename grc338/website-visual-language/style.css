@@ -97,9 +97,8 @@ main.menu ul li {
 		grid-template-rows: auto auto;
 }	
 h2.menutitle{
-	text-align: center;
 	text-transform: uppercase;
-	letter-spacing: 0.5em;
+	letter-spacing: 0.2em;
 }
 p {
 	padding-bottom: 1em
