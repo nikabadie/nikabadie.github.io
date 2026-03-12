@@ -9,13 +9,13 @@ div.home-container {
 	position: relative;
 	min-height: 100vh;
 }
-
 div.container { 
 	position: relative;
 	min-height: 100vh;
 	max-width: 85em;
 	margin: auto;
-	background-color: rgb(255, 255, 255) ;}
+	background-color: rgb(255, 255, 255) ;
+}
 div.menu {
 	font-family: "museo-sans", sans-serif;
 	font-weight: 300;
@@ -27,7 +27,7 @@ div.menu {
 
 main { 
 	padding: 4em 2em;
-	}
+}
 
 img {
     width: 100%; /*Please leave this line.*/
@@ -35,23 +35,22 @@ img {
 }
 
 nav ul li.selected a { 
-	color: rgb(255, 255, 255)
+	color: rgb(158, 58, 1);
+	font-weight: bolder;
 }
 header {	
 	display: grid;
 	grid-template-columns:14em auto;
 	grid-column-gap: 5em;
-	background-color: rgb(237, 237, 225);
+	background-color:rgb(226, 229, 230);
 	padding: 2em 1em;
 	}
-
 h1 {
-	width: 14em;
+	width:14em;
 	}
 
 h2, h3, h4 {
 		font-weight: Bold;
-
 	}
 
 h2 {
@@ -60,17 +59,14 @@ h2 {
 	font-family: "museo-sans", sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	text-transform: uppercase;
 	}
 	
 h3 {
 	font-size: 2em;
-	margin: 0.5em;
 	font-family: "museo-sans", sans-serif;
 	font-weight: 900;
 	font-style: normal;
 }
-
 
 a {
 	text-decoration:none;
@@ -87,7 +83,7 @@ ul li 	{
 
 figure {
 	margin-bottom: 1em;
-	padding: 2em;
+	padding:2em;
 }
 
 main.menu ul {
@@ -95,13 +91,15 @@ main.menu ul {
 }	
 
 main.menu ul li {
-		margin: 1em 0em 2em;
+		margin: 1em 0em 1em;
 		display: grid;
 		grid-template-columns: auto auto;
 		grid-template-rows: auto auto;
 }	
 h2.menutitle{
 	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;
 }
 p {
 	padding-bottom: 1em
@@ -115,19 +113,19 @@ p.description {
 p.price {
 	grid-row: 1;
 	grid-column:2;
-	color: rgb(255, 0, 0);
+	color:  rgb(158, 58, 1);
 	text-align: right;
 	margin:0em ;
 	}
 	
 nav ul li {
 	text-transform:uppercase;
-	font-weight: bold;
+	font-weight: normal;
 	margin: 1em;
 	}
 	
 nav ul li a {
-	color: rgb(61, 61, 59);
+	color: rgb(158, 58, 1);
 	padding: 0.5em 1em 0.5em 1em;
 	}
 	
@@ -148,7 +146,7 @@ footer {
   height: 3rem; 
   box-sizing: border-box;
   padding: 1em 1em;
-  background: rgb(185, 185, 185);
+  background: rgb(140, 141, 90);
   font-size: 0.8em;
 }
 
@@ -169,7 +167,7 @@ body {
 font-family: "museo-sans", sans-serif;
 font-weight: 300;
 font-style: normal;
-background-color: rgb(158, 58, 1);
+background-color: rgb(36, 50, 45);
 }
 
 article {
